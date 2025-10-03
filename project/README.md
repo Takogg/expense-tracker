@@ -1,7 +1,6 @@
 # Expense Tracker Web Application
 
-**Video Demo:** [Insert your YouTube video URL here]
-
+**Video Demo:** https://youtu.be/UTShH5HZHaw
 ## Description
 
 The Expense Tracker is a comprehensive full-stack web application designed to help users manage their personal finances effectively. Built as the final project for CS50x 2025, this application demonstrates proficiency in web development, database management, user authentication, and data visualization. The application allows users to register, log in securely, track their expenses, view detailed statistics, and visualize spending patterns through interactive charts.
